@@ -1,0 +1,2246 @@
+[
+  {
+    "0-100 comments": [
+      {
+        "title": "DEA Accepts Health Agency's Recommendation to Reclassify Cannabis (norml.org)",
+        "points": "103 points by jdmark 2 hours ago",
+        "comments": 56
+      },
+      {
+        "title": "Printing Music with CSS Grid (cruncher.ch)",
+        "points": "451 points by speckx 9 hours ago",
+        "comments": 43
+      },
+      {
+        "title": "Kolmogorov-Arnold Networks (github.com/kindxiaoming)",
+        "points": "48 points by sumo43 2 hours ago",
+        "comments": 7
+      },
+      {
+        "title": "Figma OSS Alternative (penpot.app)",
+        "points": "82 points by noashavit 5 hours ago",
+        "comments": 9
+      },
+      {
+        "title": "Show HN: I made an app that helps you find where to stream movies and TV shows (whereto.stream)",
+        "points": "29 points by danilotanic 4 hours ago",
+        "comments": 23
+      },
+      {
+        "title": "The File Filesystem (2021) (mgree.github.io)",
+        "points": "235 points by wegwerff 12 hours ago",
+        "comments": 66
+      },
+      {
+        "title": "Level of Gaussians: Real-Time View Synthesis for Millions of Square Meters (zju3dv.github.io)",
+        "points": "118 points by corysama 10 hours ago",
+        "comments": 19
+      },
+      {
+        "title": "Engineer 'builds a GPU from scratch' in two weeks (tomshardware.com)",
+        "points": "32 points by blcArmadillo 1 hour ago",
+        "comments": 7
+      },
+      {
+        "title": "Early Bitcoin Investor Roger Ver Charged with Tax Fraud (justice.gov)",
+        "points": "20 points by datascienced 1 hour ago",
+        "comments": 4
+      },
+      {
+        "title": "A Strong U.S. Dollar Weighs on the World (nytimes.com)",
+        "points": "16 points by mariojv 58 minutes ago",
+        "comments": 1
+      },
+      {
+        "title": "Boeing engineer tells senate about 'manufacturing shortcuts' [video] (youtube.com)",
+        "points": "113 points by aledalgrande 5 hours ago",
+        "comments": 18
+      },
+      {
+        "title": "Alice's adventures in a differentiable wonderland (sscardapane.it)",
+        "points": "162 points by tosh 13 hours ago",
+        "comments": 72
+      },
+      {
+        "title": "Show HN: I Built a Java IDE for iPad (apps.apple.com)",
+        "points": "130 points by coolius 15 hours ago",
+        "comments": 32
+      },
+      {
+        "title": "Building a Large Japanese Web Corpus for Large Language Models (arxiv.org)",
+        "points": "25 points by PaulHoule 6 hours ago",
+        "comments": 4
+      },
+      {
+        "title": "Enzymes open new path to universal donor blood (dtu.dk)",
+        "points": "84 points by gnabgib 13 hours ago",
+        "comments": 19
+      },
+      {
+        "title": "What if dreaming is the whole point of sleep? (theguardian.com)",
+        "points": "9 points by kristianpaul 25 minutes ago",
+        "comments": 3
+      },
+      {
+        "title": "RankScience (YC W17) is hiring to supercharge SEO for startups (remotejobs.org)",
+        "points": "9 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "StoryDiffusion: Long-range image and video generation (storydiffusion.github.io)",
+        "points": "145 points by doodlesdev 6 hours ago",
+        "comments": 31
+      },
+      {
+        "title": "FridgeLock: Preventing Data Theft on Suspended Linux with Memory Encryption (2020) (tum.de)",
+        "points": "44 points by thunderbong 10 hours ago",
+        "comments": 4
+      },
+      {
+        "title": "Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers",
+        "points": "55 points by gms 12 hours ago",
+        "comments": 25
+      },
+      {
+        "title": "Tour of CLIPS (2022) (ryjo.codes)",
+        "points": "51 points by ryjo 15 hours ago",
+        "comments": 19
+      },
+      {
+        "title": "Aboriginal Linux (landley.net)",
+        "points": "49 points by swatson741 6 hours ago",
+        "comments": 21
+      },
+      {
+        "title": "Show HN: I made a CLI tool to create web extensions with no build configuration (github.com/cezaraugusto)",
+        "points": "295 points by cezaraugustodev 16 hours ago",
+        "comments": 61
+      },
+      {
+        "title": "Negative-mass exciton polaritons induced by light-matter coupling semiconductor (nature.com)",
+        "points": "8 points by keepamovin 1 hour ago",
+        "comments": 3
+      },
+      {
+        "title": "Show HN: Browser-based web design platform with code import and CSS filters (gocodestudio.com)",
+        "points": "8 points by axeleratorr 4 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Rabbit R1 as an Android App (theverge.com)",
+        "points": "11 points by brothrock 2 hours ago",
+        "comments": 5
+      },
+      {
+        "title": "Crash-only software: More than meets the eye (2006) (lwn.net)",
+        "points": "49 points by hui-zheng 13 hours ago",
+        "comments": 12
+      },
+      {
+        "title": "Rama is a testament to the power of Clojure (redplanetlabs.com)",
+        "points": "121 points by winkywooster 11 hours ago",
+        "comments": 43
+      },
+      {
+        "title": "The Fermat's Last Theorem Project (leanprover-community.github.io)",
+        "points": "24 points by happa 11 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "GPL all the things? (phpc.social)",
+        "points": "30 points by pabs3 6 hours ago",
+        "comments": 10
+      },
+      {
+        "title": "The 150x PGVector Speedup (jkatz05.com)",
+        "points": "4 points by sh_tomer 5 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "The only two log levels you need are INFO and ERROR (ntietz.com)",
+        "points": "36 points by acossta 13 hours ago",
+        "comments": 25
+      },
+      {
+        "title": "Calendar types in watches (arslan.io)",
+        "points": "120 points by farslan 15 hours ago",
+        "comments": 47
+      },
+      {
+        "title": "Autoscale Kubernetes workloads on any cloud using any event (kedify.io)",
+        "points": "49 points by innovate 13 hours ago",
+        "comments": 38
+      },
+      {
+        "title": "Show HN: Roast my SQLite encryption at-rest (github.com/ncruces)",
+        "points": "62 points by ncruces 21 hours ago",
+        "comments": 18
+      },
+      {
+        "title": "'Slow Horses' Season 3 Review: Brilliantly Dysfunctional and Grim (variety.com)",
+        "points": "12 points by walterbell 3 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "Beware of fake beaches (Pokémon Go) (openstreetmap.org)",
+        "points": "3 points by aendruk 2 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Freedom to Roam (wikipedia.org)",
+        "points": "12 points by gitinit 4 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Express 5.0 – Last Push (github.com/expressjs)",
+        "points": "29 points by rareitem 3 hours ago",
+        "comments": 11
+      },
+      {
+        "title": "Linux Mint Looks to Fork More Gnome Software, Make XApp More Independent (phoronix.com)",
+        "points": "25 points by ndiddy 6 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "A CSS framework for recreating Windows 7 UI (khang-nd.github.io)",
+        "points": "20 points by nomdep 3 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "The Linux Assigned Names and Numbers Authority (lanana.org)",
+        "points": "7 points by TeeMassive 9 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Virtual Power Plants and Software (stephendeyoung.substack.com)",
+        "points": "4 points by stephendeyoung 9 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Shit Flow Diagram (wikipedia.org)",
+        "points": "10 points by dmux 3 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Major U.S. newspapers sue OpenAI, Microsoft for copyright infringement (axios.com)",
+        "points": "19 points by leeny 2 hours ago",
+        "comments": 8
+      },
+      {
+        "title": "Dream-HTML – render HTML, SVG, MathML, Htmx markup from OCaml (github.com/yawaramin)",
+        "points": "3 points by todsacerdoti 7 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Iterative reasoning preference optimization (arxiv.org)",
+        "points": "14 points by Jimmc414 2 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "Quacker News (quackernews.com)",
+        "points": "74 points by adamgordonbell 8 hours ago",
+        "comments": 31
+      },
+      {
+        "title": "Non-planar 3D printing in a modern slicer thanks to the community [video] (youtube.com)",
+        "points": "3 points by Jimmc414 2 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Why Doesn't AI Want to Show Me Jesus Washing the Feet of His Disciples? (freddiedeboer.substack.com)",
+        "points": "23 points by paulpauper 7 hours ago",
+        "comments": 13
+      },
+      {
+        "title": "Two giants in the satellite telecom industry join forces to counter Starlink (arstechnica.com)",
+        "points": "5 points by thunderbong 2 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "Rabbit R1, a thing that should just be an app, is just an Android app (androidauthority.com)",
+        "points": "87 points by gmjosack 7 hours ago",
+        "comments": 61
+      },
+      {
+        "title": "Qantas app data breach allows customers to access strangers' booking details (7news.com.au)",
+        "points": "29 points by beatthatflight 5 hours ago",
+        "comments": 13
+      },
+      {
+        "title": "Show HN: Add Siri Like Native AI Assistants to Any React/JS App (github.com/sugarai-hq)",
+        "points": "13 points by nomad_ankur 13 hours ago",
+        "comments": 5
+      },
+      {
+        "title": "Life and Land in Anglo-Saxon England (historytoday.com)",
+        "points": "72 points by pepys 1 day ago",
+        "comments": 48
+      },
+      {
+        "title": "General Motors Streetcar Conspiracy (wikipedia.org)",
+        "points": "59 points by nadermx 8 hours ago",
+        "comments": 45
+      },
+      {
+        "title": "Ask HN: 4chan Archives Pre-2008?",
+        "points": "9 points by TerryHasRisen 8 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "Microsoft Cascadia Code NF - Nerd Font (phoronix.com)",
+        "points": "11 points by watersb 4 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Scaling to Count Billions (canva.dev)",
+        "points": "44 points by kiyanwang 19 hours ago",
+        "comments": 11
+      },
+      {
+        "title": "Good enough is good enough (2013) (europython.eu)",
+        "points": "57 points by hypertexthero 12 hours ago",
+        "comments": 28
+      },
+      {
+        "title": "Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL (crunchydata.com)",
+        "points": "62 points by tosh 13 hours ago",
+        "comments": 23
+      },
+      {
+        "title": "Kubernetes as a Scheduler vs. an API Proxy (otterize.com)",
+        "points": "12 points by vfiftyfive 14 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "P vs. NP and the Computational Complexity Zoo (2014) [video] (youtube.com)",
+        "points": "119 points by kl4zo 1 day ago",
+        "comments": 50
+      },
+      {
+        "title": "Binance founder Changpeng Zhao sentenced to four months in prison (cnbc.com)",
+        "points": "48 points by SirLJ 11 hours ago",
+        "comments": 29
+      },
+      {
+        "title": "The Panopticon Is Already Here (2020) (theatlantic.com)",
+        "points": "4 points by walterbell 4 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Applying the Facade Pattern on Spotify for Artists (atspotify.com)",
+        "points": "21 points by cebert 17 hours ago",
+        "comments": 18
+      },
+      {
+        "title": "Probing electron spin states at much higher resolution and efficiency (phys.org)",
+        "points": "22 points by PaulHoule 13 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "Cressi Nepto for Subsurface (sjaeckel.github.io)",
+        "points": "7 points by jaeckel 14 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Show HN: Data analysis of HN whoishiring posts (basc.substack.com)",
+        "points": "6 points by sebst 15 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "\"Sustainable\" company behind POM juice among California's top paraquat sprayers (thenewlede.org)",
+        "points": "31 points by PaulHoule 16 hours ago",
+        "comments": 5
+      },
+      {
+        "title": "Show HN: Use the cloud for your dev environment on the fly (github.com/run-rx)",
+        "points": "16 points by kchod 16 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "JFrog research discovers coordinated attacks on Docker Hub that planted millions (jfrog.com)",
+        "points": "36 points by based2 9 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "I Built an Ld_preload Worm (lcamtuf.substack.com)",
+        "points": "107 points by zdw 1 day ago",
+        "comments": 58
+      },
+      {
+        "title": "Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Models (arxiv.org)",
+        "points": "43 points by Jimmc414 11 hours ago",
+        "comments": 4
+      },
+      {
+        "title": "NixOS Foundation board: Giving power to the community (nixos.org)",
+        "points": "20 points by Macha 5 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "More than half of cats died after drinking raw milk from bird flu-infected cows (cbsnews.com)",
+        "points": "9 points by perihelions 8 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Bangladesh built a tech park for 100k workers. Now it's a ghost town (restofworld.org)",
+        "points": "23 points by PaulHoule 14 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "Project Habbakuk: Britain’s ice “bergship” aircraft carrier project (2017) (99percentinvisible.org)",
+        "points": "143 points by not_a_boat 1 day ago",
+        "comments": 51
+      },
+      {
+        "title": "A few facts about POSIX (vorakl.com)",
+        "points": "105 points by vorakl 1 day ago",
+        "comments": 46
+      },
+      {
+        "title": "Intel says CPU stability problems caused by motherboard makers (igorslab.de)",
+        "points": "8 points by skilled 4 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "RISC-V support in Android just got a big setback (androidauthority.com)",
+        "points": "93 points by ammo1662 1 day ago",
+        "comments": 66
+      },
+      {
+        "title": "Elon Musk fires Tesla's entire supercharger team (ft.com)",
+        "points": "133 points by starwin1159 11 hours ago",
+        "comments": 46
+      },
+      {
+        "title": "McDonald's and other big brands warn that low-income consumers r start to crack (cnbc.com)",
+        "points": "7 points by lattefa 6 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "FTC challenges 'junk' patents held by 10 drugmakers, incl Novo Nordisk's Ozempic (cnbc.com)",
+        "points": "136 points by toomuchtodo 9 hours ago",
+        "comments": 83
+      },
+      {
+        "title": "Angle-grinder: Slice and dice logs on the command line (github.com/rcoh)",
+        "points": "143 points by kqr 1 day ago",
+        "comments": 33
+      },
+      {
+        "title": "Show HN: Community-written abstracts for research papers (tldr-ai.org)",
+        "points": "76 points by yu3zhou4 1 day ago",
+        "comments": 51
+      },
+      {
+        "title": "CloudGoat (github.com/rhinosecuritylabs)",
+        "points": "99 points by udev4096 22 hours ago",
+        "comments": 8
+      },
+      {
+        "title": "3D framework for the web, built on Svelte and Three.js (threlte.xyz)",
+        "points": "370 points by spxneo 1 day ago",
+        "comments": 60
+      },
+      {
+        "title": "Microsoft Cascadia Code 2404.23 (microsoft.com)",
+        "points": "3 points by thunderbong 2 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Microsoft Maintains Go Fork for FIPS 140-2 Support (github.com/microsoft)",
+        "points": "40 points by dschofie 11 hours ago",
+        "comments": 13
+      },
+      {
+        "title": "Show HN: Kaytu – Optimizing cloud costs using actual usage data (github.com/kaytu-io)",
+        "points": "95 points by acx1729 1 day ago",
+        "comments": 15
+      },
+      {
+        "title": "Apollo Had Some Death Bets (bloomberg.com)",
+        "points": "11 points by ioblomov 11 hours ago",
+        "comments": 7
+      },
+      {
+        "title": "FC8 – Faster 68K Decompression (2016) (bigmessowires.com)",
+        "points": "68 points by electricant 1 day ago",
+        "comments": 9
+      },
+      {
+        "title": "Functional semantics in imperative clothing (rtfeldman.com)",
+        "points": "66 points by lwboswell 1 day ago",
+        "comments": 67
+      },
+      {
+        "title": "Liburing 2.6 Released (github.com/axboe)",
+        "points": "4 points by ashvardanian 10 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Haunting Sounds from the Largest Living Thing (sciencealert.com)",
+        "points": "59 points by neverenginelabs 1 day ago",
+        "comments": 10
+      },
+      {
+        "title": "How to Fund FOSS, Save It from the CRA, and Improve Cybersecurity (gavinhoward.com)",
+        "points": "15 points by nomdep 1 day ago",
+        "comments": 11
+      },
+      {
+        "title": "Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself (akamai.com)",
+        "points": "140 points by rexbee 2 days ago",
+        "comments": 71
+      },
+      {
+        "title": "Show HN: Dotenv, if it is a Unix utility (github.com/gyf304)",
+        "points": "220 points by gyf304 2 days ago",
+        "comments": 98
+      },
+      {
+        "title": "Claude Émile Jean-Baptiste Litre (wikipedia.org)",
+        "points": "131 points by apollinaire 1 day ago",
+        "comments": 11
+      },
+      {
+        "title": "Web-native Unix-like development environment (wanix.sh)",
+        "points": "47 points by aziis98 2 days ago",
+        "comments": 4
+      },
+      {
+        "title": "Struve's Flat(ter) Earth (2023) (datawrapper.de)",
+        "points": "25 points by PuddleOfSausage 1 day ago",
+        "comments": 5
+      },
+      {
+        "title": "Deep Dive into XZ Utils Backdoor [video] (youtube.com)",
+        "points": "209 points by peacefullemon 1 day ago",
+        "comments": 87
+      },
+      {
+        "title": "OpenBSD scripts to convert wg-quick VPN files (dataswamp.org)",
+        "points": "14 points by zdw 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Apple to unveil AI-enabled Safari alongside new operating systems (appleinsider.com)",
+        "points": "31 points by nateb2022 5 hours ago",
+        "comments": 32
+      },
+      {
+        "title": "The Pen, Mightier (2011) (themillions.com)",
+        "points": "56 points by scour 1 day ago",
+        "comments": 25
+      },
+      {
+        "title": "6502 – Guideline to Reverse Engineering (how to read die shots) [pdf] (reactivemicro.com)",
+        "points": "123 points by siraben 2 days ago",
+        "comments": 6
+      },
+      {
+        "title": "The Military Services Don't Care About Suicide (radarblog.substack.com)",
+        "points": "3 points by keepamovin 20 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Sankey Diagrams in Google Charts (developers.google.com)",
+        "points": "3 points by andsoitis 8 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "ASML Patterns First Wafer Using High-NA EUV Tool, Ships Second High-NA Scanner (anandtech.com)",
+        "points": "10 points by PaulHoule 13 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Show HN: LazyVim for Ambitious Developers (phillips.codes)",
+        "points": "67 points by buchuki 2 days ago",
+        "comments": 13
+      },
+      {
+        "title": "How do satellites communicate with a GPS system? (2018) (allaboutcircuits.com)",
+        "points": "55 points by reqo 1 day ago",
+        "comments": 15
+      },
+      {
+        "title": "30 Years Ago Today, Commodore Died (reddit.com)",
+        "points": "3 points by doener 8 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "AI Is Doomed to Fail the Musical Turing Test [video] (youtube.com)",
+        "points": "4 points by yedava 8 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Gpt2-Chatbot Removed from Lmsys (lmsys.org)",
+        "points": "35 points by synthwave 12 hours ago",
+        "comments": 11
+      },
+      {
+        "title": "Exploit.education (exploit.education)",
+        "points": "230 points by udev4096 1 day ago",
+        "comments": 17
+      },
+      {
+        "title": "Befreak is a purely reversible two-dimensional programming language (tunes.org)",
+        "points": "23 points by akkartik 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "Tesla wants to monetize its cars to process AI workloads (theregister.com)",
+        "points": "11 points by sausajez 11 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "Motherboard makers apparently to blame for high-end Intel Core i9 CPU failures (arstechnica.com)",
+        "points": "15 points by duxup 1 day ago",
+        "comments": 4
+      },
+      {
+        "title": "Cybersecurity incident made London Drugs stores to remain closed (cbc.ca)",
+        "points": "6 points by EhsanEtezad 11 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "The Three Byte Fix (breckyunits.com)",
+        "points": "56 points by breck 1 day ago",
+        "comments": 5
+      },
+      {
+        "title": "Everything Curl (curl.dev)",
+        "points": "21 points by aragonite 1 day ago",
+        "comments": 5
+      },
+      {
+        "title": "Criminals and oligarchs in EU's sights with new bill targeting football fraud (theguardian.com)",
+        "points": "35 points by PaulHoule 1 day ago",
+        "comments": 8
+      },
+      {
+        "title": "Xbox 360 marketplace will stop accepting purchases per July 29th (xbox.com)",
+        "points": "45 points by bouke 6 hours ago",
+        "comments": 24
+      },
+      {
+        "title": "LLM as an n-dimensional Object in n-dimensional Space (medium.com/alex.a.levy)",
+        "points": "7 points by martingalex2 14 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Pearls Before Breakfast: Can a great musician cut fog of rush hour? (2007) (washingtonpost.com)",
+        "points": "37 points by wglb 1 day ago",
+        "comments": 18
+      },
+      {
+        "title": "Talking to memory: Inside the Intel 8088 processor's bus interface state machine (righto.com)",
+        "points": "108 points by todsacerdoti 2 days ago",
+        "comments": 9
+      },
+      {
+        "title": "Not all Graphs are Trees (buttondown.email/jaffray)",
+        "points": "3 points by g0xA52A2A 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "FreeBee: AT&T Unix PC emulator (philpem.me.uk)",
+        "points": "105 points by luu 2 days ago",
+        "comments": 49
+      },
+      {
+        "title": "An IRC client that runs on your motherboard's UEFI is born (gigazine.net)",
+        "points": "31 points by fury999io 2 days ago",
+        "comments": 3
+      },
+      {
+        "title": "OpenAI: Batch API (platform.openai.com)",
+        "points": "21 points by davidbarker 14 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Tangoing with a Martin Gardner Word Game (pncnmnp.github.io)",
+        "points": "48 points by pncnmnp 2 days ago",
+        "comments": 9
+      },
+      {
+        "title": "Binance Founder Sentenced to Four Months in Prison (nytimes.com)",
+        "points": "18 points by beisner 11 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "Nintendo(1) (9front.org)",
+        "points": "110 points by lagniappe 1 day ago",
+        "comments": 59
+      },
+      {
+        "title": "I created a new time-blocking concept for busy days and it works (web.app)",
+        "points": "45 points by tombarys 2 days ago",
+        "comments": 13
+      },
+      {
+        "title": "500 Byte Images: The Haiku Vector Icon Format (2016) (leahhanson.us)",
+        "points": "39 points by smartmic 1 day ago",
+        "comments": 7
+      },
+      {
+        "title": "Building MS-DOS 4.00 on FreeDOS [video] (youtube.com)",
+        "points": "72 points by zdw 2 days ago",
+        "comments": 15
+      },
+      {
+        "title": "Will Americans Ever Get Sick of Cheap Junk? (theatlantic.com)",
+        "points": "28 points by paulpauper 1 day ago",
+        "comments": 18
+      },
+      {
+        "title": "Block* and AgentFormer – Playing with blocks and Transformers (yay) (github.com/rayking99)",
+        "points": "21 points by jasepickup 2 days ago",
+        "comments": 3
+      },
+      {
+        "title": "Ask HN: What's the best charting library for customer-facing dashboards?",
+        "points": "117 points by rogansage 1 day ago",
+        "comments": 57
+      },
+      {
+        "title": "Twitter co-founder Biz Stone joins board of Mastodon's new US nonprofit (techcrunch.com)",
+        "points": "14 points by cpeterso 8 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Can China's Loongson Catch Western Designs? Probably Not (chipsandcheese.com)",
+        "points": "35 points by ingve 23 hours ago",
+        "comments": 17
+      },
+      {
+        "title": "Apple banned Delta for years. It's now America's Number 1 iPhone app. (washingtonpost.com)",
+        "points": "37 points by bookofjoe 8 hours ago",
+        "comments": 8
+      },
+      {
+        "title": "Crows Are Self-Aware Just Like Humans, and They May Be as Smart as Gorillas (popularmechanics.com)",
+        "points": "77 points by nithinj 2 days ago",
+        "comments": 31
+      },
+      {
+        "title": "I Witnessed the Future of AI, and It's a Broken Toy (theatlantic.com)",
+        "points": "36 points by mikestew 1 day ago",
+        "comments": 20
+      },
+      {
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computers (os-world.github.io)",
+        "points": "77 points by kristianpaul 2 days ago",
+        "comments": 39
+      },
+      {
+        "title": "Plato's final hours recounted in scroll found in Vesuvius ash (theguardian.com)",
+        "points": "48 points by tjwds 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills (bbc.com)",
+        "points": "168 points by 8BitArmour 1 day ago",
+        "comments": 53
+      },
+      {
+        "title": "Show HN: React Bricks, The only headless CMS with true Visual Editing (reactbricks.com)",
+        "points": "11 points by dsalinasgardon 1 day ago",
+        "comments": 6
+      },
+      {
+        "title": "Vaping linked with higher risk of exposure to toxic metals, study finds (cnn.com)",
+        "points": "19 points by priyankanath 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Some psychedelic drug users are stuck with unwelcome highs (latimes.com)",
+        "points": "4 points by chapulin 13 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "The Essence of Compiling with Continuations (1993) [pdf] (acm.org)",
+        "points": "92 points by swatson741 2 days ago",
+        "comments": 10
+      },
+      {
+        "title": "Electromigration Concerns Grow in Advanced Packages (semiengineering.com)",
+        "points": "58 points by PaulHoule 1 day ago",
+        "comments": 40
+      },
+      {
+        "title": "EV fast-charging comes to condos and apartments (arstechnica.com)",
+        "points": "33 points by PaulHoule 1 day ago",
+        "comments": 18
+      },
+      {
+        "title": "Mistakes that data science students make (austinhenley.com)",
+        "points": "20 points by azhenley 2 days ago",
+        "comments": 4
+      },
+      {
+        "title": "European police chiefs condemn end-to-end encryption [pdf] (europa.eu)",
+        "points": "5 points by belter 14 hours ago",
+        "comments": 5
+      },
+      {
+        "title": "WeWork agrees restructuring deal that shuts out Adam Neumann's comeback bid (ft.com)",
+        "points": "34 points by JumpCrisscross 1 day ago",
+        "comments": 3
+      },
+      {
+        "title": "The Threat of a Solar Superstorm Is Growing–and We're Not Ready (scientificamerican.com)",
+        "points": "46 points by Brajeshwar 1 day ago",
+        "comments": 15
+      },
+      {
+        "title": "The California man who hid for 6 months in a secret room inside Circuit City (sfgate.com)",
+        "points": "7 points by perpil 12 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "The AI expert who cited himself thousands of times on scientific paper (elpais.com)",
+        "points": "107 points by belter 2 days ago",
+        "comments": 22
+      },
+      {
+        "title": "Burnout – When does work start feeling pointless? – DW Documentary (youtube.com)",
+        "points": "30 points by thebeardisred 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "Change Healthcare hackers used stolen credentials and no MFA, says UHG CEO (techcrunch.com)",
+        "points": "14 points by skilled 14 hours ago",
+        "comments": 10
+      },
+      {
+        "title": "DEC PDP-1 emulator running \"Spacewar\", the earliest known digital video game (masswerk.at)",
+        "points": "104 points by smartmic 2 days ago",
+        "comments": 43
+      },
+      {
+        "title": "The Shitty Technology Adoption Curve (2022) (pluralistic.net)",
+        "points": "120 points by smartmic 2 days ago",
+        "comments": 19
+      },
+      {
+        "title": "The $1 MICROCONTROLLER (comparison of cheap microcontrollers) (jaycarlson.net)",
+        "points": "15 points by em3rgent0rdr 15 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "The limits of foreign propaganda and the foundations of an effective response (tnsr.org)",
+        "points": "17 points by no_exit 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Re: Why Host Emacs Packages on GitHub? (Microsoft vs Freedom) (protesilaos.com)",
+        "points": "61 points by iscream26 23 hours ago",
+        "comments": 65
+      },
+      {
+        "title": "The Financial Times and OpenAI strike content licensing deal (ft.com)",
+        "points": "35 points by kmdupree 1 day ago",
+        "comments": 51
+      },
+      {
+        "title": "Malicious Python Code Gains Execution (phylum.io)",
+        "points": "5 points by louislang 15 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "A smooth and sharp image interpolation you probably haven't heard of (wordsandbuttons.online)",
+        "points": "5 points by okaleniuk 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Bytecode VMs in Surprising Places (dubroy.com)",
+        "points": "99 points by todsacerdoti 16 hours ago",
+        "comments": 43
+      },
+      {
+        "title": "Neal Stephenson – Announcing Polostan (nealstephenson.com)",
+        "points": "61 points by lkellar 13 hours ago",
+        "comments": 27
+      },
+      {
+        "title": "In Defense of Deflation (mises.org)",
+        "points": "18 points by wslh 1 day ago",
+        "comments": 5
+      },
+      {
+        "title": "Show HN: Local GLaDOS (reddit.com)",
+        "points": "5 points by dnhkng 15 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Ollama v0.1.33 with Llama 3, Phi 3, and Qwen 110B (github.com/ollama)",
+        "points": "192 points by ashvardanian 2 days ago",
+        "comments": 64
+      },
+      {
+        "title": "Codapi – Interactive code examples for documentation, education and fun (github.com/nalgeon)",
+        "points": "51 points by nalgeon 1 day ago",
+        "comments": 7
+      },
+      {
+        "title": "General Galactic emerges from stealth to make methane from carbon dioxide (techcrunch.com)",
+        "points": "13 points by PaulHoule 1 day ago",
+        "comments": 11
+      },
+      {
+        "title": "Managing Up (wheresyoured.at)",
+        "points": "37 points by dvaun 1 day ago",
+        "comments": 17
+      },
+      {
+        "title": "The U.S. economy's big problem? People forgot what 'normal' looks like (2023) (washingtonpost.com)",
+        "points": "39 points by paulpauper 1 day ago",
+        "comments": 37
+      },
+      {
+        "title": "How A NASA Probe Solved a Scorching Solar Mystery (quantamagazine.org)",
+        "points": "6 points by jyunwai 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Man who mass-extorted psychotherapy patients gets six years (krebsonsecurity.com)",
+        "points": "78 points by todsacerdoti 16 hours ago",
+        "comments": 95
+      },
+      {
+        "title": "I'm a Tenured College Professor. I'm Quitting. Here's Why (okdoomer.io)",
+        "points": "7 points by skilled 21 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "Save the Web by Being Nice (sheep.horse)",
+        "points": "90 points by todsacerdoti 1 day ago",
+        "comments": 53
+      },
+      {
+        "title": "23 million Americans might lose internet access today as ACP ends (wired.com)",
+        "points": "20 points by leotravis10 10 hours ago",
+        "comments": 8
+      },
+      {
+        "title": "Jeff Bridges Returning to the Grid for 'Tron: Ares' (gizmodo.com)",
+        "points": "4 points by bookofjoe 17 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "No Dev Team? No Problem: Writing Malware and Anti-Malware with GenAI (infosecwriteups.com)",
+        "points": "8 points by harambae 12 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Therapists report significant psychological risks in psilocybin-assisted treat (psypost.org)",
+        "points": "12 points by silahyd 1 day ago",
+        "comments": 6
+      },
+      {
+        "title": "MTA banned from using facial recognition to enforce fare evasion (gothamist.com)",
+        "points": "56 points by rntn 5 hours ago",
+        "comments": 56
+      },
+      {
+        "title": "Supreme Court Declines to Block Texas Porn Restriction (slashdot.org)",
+        "points": "28 points by Jimmc414 10 hours ago",
+        "comments": 10
+      },
+      {
+        "title": "Musk disbands Tesla EV charging team, leaving customers in the dark (reuters.com)",
+        "points": "4 points by jjav 6 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Jeff Barr: customers should not have to pay for unauthorized requests (twitter.com/jeffbarr)",
+        "points": "30 points by tosh 9 hours ago",
+        "comments": 4
+      },
+      {
+        "title": "Ask HN: Can Devin genuinely replace the roles of developers?",
+        "points": "23 points by sunnysogra 22 hours ago",
+        "comments": 70
+      },
+      {
+        "title": "Even Portland now is banning camping, part of the West Coast retreat (seattletimes.com)",
+        "points": "26 points by wallflower 2 days ago",
+        "comments": 19
+      },
+      {
+        "title": "A highly insulating, translucent aerogel glass brick for building envelopes (2022) (sciencedirect.com)",
+        "points": "9 points by simonebrunozzi 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "GraphRAG with LangChain and Neo4j (valentinaalto.medium.com)",
+        "points": "14 points by Anon84 2 days ago",
+        "comments": 3
+      },
+      {
+        "title": "Account compromise of \"unprecedented scale\" uses everyday home devices (arstechnica.com)",
+        "points": "11 points by carride 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Haystack DB – 10x faster than FAISS with binary embeddings by default (github.com/carsonpo)",
+        "points": "59 points by carsonpoole 2 days ago",
+        "comments": 26
+      },
+      {
+        "title": "Bill comes due for money-losing tech companies that borrowed billions (semafor.com)",
+        "points": "32 points by everybodyknows 12 hours ago",
+        "comments": 15
+      },
+      {
+        "title": "Benchmarking PostgreSQL Connection Poolers: PgBouncer, PgCat and Supavisor (tembo.io)",
+        "points": "13 points by riv991 15 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "A proof that Unix utility sed is Turing complete (catonmat.net)",
+        "points": "14 points by sebmellen 2 days ago",
+        "comments": 4
+      },
+      {
+        "title": "One year with the Ergodox EZ (ryanbigg.com)",
+        "points": "10 points by ryanbigg 16 hours ago",
+        "comments": 5
+      },
+      {
+        "title": "UK becomes first country to ban default bad passwords on IoT devices (therecord.media)",
+        "points": "54 points by bookofjoe 17 hours ago",
+        "comments": 22
+      },
+      {
+        "title": "OpenAI GDPR Complaint (theregister.com)",
+        "points": "20 points by vorticalbox 1 day ago",
+        "comments": 8
+      },
+      {
+        "title": "Millionaire Becomes Poor to Prove You Can Earn $1M in a Year: Fails at 10 Months (ibtimes.co.uk)",
+        "points": "30 points by ACHILLIES 20 hours ago",
+        "comments": 9
+      },
+      {
+        "title": "Why so many men in the US have stopped working (businessinsider.com)",
+        "points": "3 points by pseudolus 20 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "'ChatGPT for CRISPR' creates new gene-editing tools (nature.com)",
+        "points": "8 points by jyunwai 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Finnair pauses some Estonia flights due to GPS interference (reuters.com)",
+        "points": "26 points by lxgr 11 hours ago",
+        "comments": 12
+      },
+      {
+        "title": "Williams-Sonoma fined $3.18M for falsely labeling products 'Made in USA' (scrippsnews.com)",
+        "points": "206 points by randycupertino 2 days ago",
+        "comments": 92
+      },
+      {
+        "title": "Ask HN: Not a personal assistant, but a manager to get things done?",
+        "points": "8 points by delopsu 1 day ago",
+        "comments": 25
+      },
+      {
+        "title": "I Rented Out a Movie Theatre (Again) and Used My Steam Deck to Play Co-Op Games (reddit.com)",
+        "points": "78 points by taubek 20 hours ago",
+        "comments": 27
+      },
+      {
+        "title": "Show HN: Audio Mastering with Text Prompts (diktatorial.com)",
+        "points": "7 points by berkancesur 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "Tougher rules for sellers of internet-enabled devices in the UK (bbc.co.uk)",
+        "points": "41 points by timmb 1 day ago",
+        "comments": 64
+      },
+      {
+        "title": "Richard Stallman's Talk in Spain Canceled (At Short Notice) (techrights.org)",
+        "points": "11 points by dargscisyhp 8 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "FTC fines Razer for every cent made selling bogus \"N95 grade\" RGB masks (arstechnica.com)",
+        "points": "15 points by ceejayoz 10 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "Oxford Mathematics Student Lectures – All Lectures (youtube.com)",
+        "points": "32 points by gjvc 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "Country and Product Complexity Rankings (cid.harvard.edu)",
+        "points": "9 points by 082349872349872 18 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation (arxiv.org)",
+        "points": "32 points by PaulHoule 17 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "Systemd Rolling Out \"run0\" As sudo Alternative (phoronix.com)",
+        "points": "51 points by jviide 17 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "UnitedHealth CEO: 'Decision to pay ransom was mine' (theregister.com)",
+        "points": "15 points by rntn 10 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "Ubuntu 24.04, Fedora 40, EndeavourOS, and TrueNAS 24.04 all arrive at once (theregister.com)",
+        "points": "9 points by lproven 21 hours ago",
+        "comments": 6
+      },
+      {
+        "title": "AI leaderboards are no longer useful. It's time to switch to Pareto curves (aisnakeoil.com)",
+        "points": "35 points by jobbagy 15 hours ago",
+        "comments": 14
+      },
+      {
+        "title": "Arc Browser for Windows, now generally available (arc.net)",
+        "points": "66 points by abhinavk 14 hours ago",
+        "comments": 78
+      },
+      {
+        "title": "Z80 is dead – The chip that changed my world – and yours (theregister.com)",
+        "points": "8 points by RachelF 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "PCIe 5.0 is nearly 4 years old and it's still virtually worthless in gaming PCs (pcgamer.com)",
+        "points": "24 points by speckx 10 hours ago",
+        "comments": 18
+      },
+      {
+        "title": "Physical fitness and risk of mental disorders in children and adolescents (jamanetwork.com)",
+        "points": "66 points by pseudolus 1 day ago",
+        "comments": 67
+      },
+      {
+        "title": "Amateur birder in Oregon accidentally photographs bird never before seen in US (theguardian.com)",
+        "points": "7 points by sassiw 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Can Xerox's PARC, a Silicon Valley Icon, Find New Life with SRI? (nytimes.com)",
+        "points": "10 points by bookofjoe 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Green Software Foundation's Software Carbon Intensity Spec Becomes ISO Standard (greensoftware.foundation)",
+        "points": "35 points by wbeckler 1 day ago",
+        "comments": 16
+      },
+      {
+        "title": "China has a controversial plan for brain computer interfaces (wired.com)",
+        "points": "9 points by aussieguy1234 7 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "JetStream 2.2 (webkit.org)",
+        "points": "8 points by feross 9 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "First post: A history of online public messaging (arstechnica.com)",
+        "points": "18 points by sohkamyung 1 day ago",
+        "comments": 7
+      },
+      {
+        "title": "Cloudflare CEO sues over free-roaming fidos at his ski resort paradise (theregister.com)",
+        "points": "40 points by zepton 1 day ago",
+        "comments": 11
+      },
+      {
+        "title": "Korea sees more deaths than births for 52nd consecutive month in February (hani.co.kr)",
+        "points": "62 points by paulpauper 2 days ago",
+        "comments": 67
+      },
+      {
+        "title": "PostgreSQL Supported Platforms over Time (eisentraut.org)",
+        "points": "31 points by ingve 1 day ago",
+        "comments": 10
+      },
+      {
+        "title": "London Drugs closes stores until further notice due to cyberattack (cbc.ca)",
+        "points": "79 points by nvy 1 day ago",
+        "comments": 75
+      },
+      {
+        "title": "Tell HN: Gpt2-chatbot is a mysterious and surprisngly strong LLM",
+        "points": "13 points by intellectronica 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "Memory Management Every Programmer Should Know (zacharylee.substack.com)",
+        "points": "73 points by zacharylee 1 day ago",
+        "comments": 14
+      },
+      {
+        "title": "Show HN: Link Pantry – a repository of links on various topics (linkpantry.com)",
+        "points": "4 points by PerWilhelm 2 days ago",
+        "comments": 5
+      },
+      {
+        "title": "Rabbit R1: Barely Reviewable [video] (youtube.com)",
+        "points": "100 points by mfiguiere 1 day ago",
+        "comments": 80
+      },
+      {
+        "title": "Oracle Fusion rollout costs 15 times council's estimates in SAP rip-'n-replace (theregister.com)",
+        "points": "22 points by LinuxBender 17 hours ago",
+        "comments": 10
+      },
+      {
+        "title": "Tales from an Attic (theamericanscholar.org)",
+        "points": "28 points by lobbly 2 days ago",
+        "comments": 2
+      },
+      {
+        "title": "Apple Joins the SeL4 Foundation (sel4.systems)",
+        "points": "17 points by nateb2022 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Monorepos: Please Don't (2019) (medium.com/mattklein123)",
+        "points": "20 points by jrpelkonen 2 days ago",
+        "comments": 39
+      },
+      {
+        "title": "Careful with Pair-of-Registers Instructions on Apple Silicon (lemire.me)",
+        "points": "12 points by ingve 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "CB1 Receptor Negative Allosteric Modulators to Reverse Cannabinoid Toxicity (mdpi.com)",
+        "points": "11 points by PaulHoule 1 day ago",
+        "comments": 12
+      },
+      {
+        "title": "Cars are getting dumber [video] (youtube.com)",
+        "points": "17 points by awnird 2 days ago",
+        "comments": 4
+      },
+      {
+        "title": "How the New Grad Apocalypse Is Going to Shake Out (twitter.com/kchoudhu)",
+        "points": "10 points by barry-cotter 1 day ago",
+        "comments": 8
+      },
+      {
+        "title": "Performers prove talent has nothing to do with success (qz.com)",
+        "points": "5 points by paulpauper 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "AI is making Meta's apps basically unusable (fastcompany.com)",
+        "points": "61 points by skilled 2 days ago",
+        "comments": 48
+      },
+      {
+        "title": "EyeEm will license users' photos to train AI if they don't delete them (techcrunch.com)",
+        "points": "21 points by ulrischa 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "Bruce Perens Proposes Draft Post-Open Zero Cost License (theregister.com)",
+        "points": "17 points by coloneltcb 14 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "America Lost the Plot with TikTok (theatlantic.com)",
+        "points": "6 points by paulpauper 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "MySQL 8.4.0 LTS Release (mysql.com)",
+        "points": "4 points by chenrui 15 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "GPS-jammer affecting aircrafts around Estonia (twitter.com/auonsson)",
+        "points": "6 points by dtquad 12 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "EU launches action against 20 airlines for greenwashing (aljazeera.com)",
+        "points": "64 points by Qem 13 hours ago",
+        "comments": 13
+      },
+      {
+        "title": "SpaceX Employees Are Getting Hurt in Alarming Numbers (jalopnik.com)",
+        "points": "8 points by kryster 1 day ago",
+        "comments": 3
+      },
+      {
+        "title": "No more 12345: devices with weak passwords to be banned in UK (theguardian.com)",
+        "points": "13 points by cpeterso 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "Google surpasses $2T market cap (qz.com)",
+        "points": "85 points by mrbishalsaha 2 days ago",
+        "comments": 79
+      },
+      {
+        "title": "Roku OS home screen is getting video ads (arstechnica.com)",
+        "points": "8 points by rntn 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "FDIC says Republic First Bank is closed by Pennsylvania regulators (cnn.com)",
+        "points": "22 points by mooreds 2 days ago",
+        "comments": 4
+      },
+      {
+        "title": "Starbucks shares sink 8% as same-store sales fall, quarterly results miss (cnbc.com)",
+        "points": "27 points by jamarna 6 hours ago",
+        "comments": 68
+      },
+      {
+        "title": "Eating light: Finnish startup begins making food 'from air and solar power' (theguardian.com)",
+        "points": "15 points by PaulHoule 2 days ago",
+        "comments": 2
+      },
+      {
+        "title": "California Fast-Food Chains Are Now Serving Sticker Shock (wsj.com)",
+        "points": "16 points by JumpCrisscross 2 days ago",
+        "comments": 9
+      },
+      {
+        "title": "Client Runs on Waterfall",
+        "points": "23 points by pxue 2 days ago",
+        "comments": 15
+      },
+      {
+        "title": "FBI: Scammers stole more than $3.4B from older Americans last year (voanews.com)",
+        "points": "6 points by everybodyknows 11 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "Amazon.com First Quarter Results (aboutamazon.com)",
+        "points": "5 points by mtmail 9 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Can China's Loongson Catch Western Designs? Probably Not (chipsandcheese.com)",
+        "points": "5 points by Koshkin 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "In 1973, I invented a 'girly drink' called Baileys – The Irish Times (irishtimes.com)",
+        "points": "9 points by dhruvarora013 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Devices with awful default passwords now illegal in the UK (arstechnica.com)",
+        "points": "7 points by AndrewDucker 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Android Studio IDE launches free AI features (android.com)",
+        "points": "10 points by nallatamby 11 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Gradient AI Releases 1M Context Llama 3 8B (twitter.com/gradient_ai_)",
+        "points": "80 points by forrestp 1 day ago",
+        "comments": 26
+      },
+      {
+        "title": "CH-53K Helicopter Transports F-35C And Refuels From KC-130 En Route (theaviationist.com)",
+        "points": "14 points by Luc 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "'Catastrophic grid failure' a possibility for Texas solar/wind/battery storage (houstonchronicle.com)",
+        "points": "55 points by MilnerRoute 2 days ago",
+        "comments": 81
+      },
+      {
+        "title": "US Air Force awards $13B Doomsday plane contract to Sierra Nevada (reuters.com)",
+        "points": "19 points by JumpCrisscross 2 days ago",
+        "comments": 30
+      },
+      {
+        "title": "US Post Office phishing sites get as much traffic as the real one (bleepingcomputer.com)",
+        "points": "9 points by rntn 2 days ago",
+        "comments": 2
+      },
+      {
+        "title": "LLMs and SQL",
+        "points": "3 points by zephodb 1 day ago",
+        "comments": 9
+      },
+      {
+        "title": "Google search for \"Delta Emulator\" shows malware as top result (google.com)",
+        "points": "23 points by segasaturn 15 hours ago",
+        "comments": 16
+      },
+      {
+        "title": "Macintosh Quadra 610 DOS Compatible (lowendmac.com)",
+        "points": "7 points by wannacboatmovie 20 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "Google lays off staff from Flutter, Dart, Python teams before dev conference (techcrunch.com)",
+        "points": "57 points by CharlesW 1 day ago",
+        "comments": 48
+      },
+      {
+        "title": "Major newspapers join legal backlash against OpenAI, Microsoft (washingtonpost.com)",
+        "points": "8 points by lispisok 12 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "The Tech Plutocrats Dreaming of a Right-Wing San Francisco (newrepublic.com)",
+        "points": "4 points by mrguyorama 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "US, Argentina to cooperate, combat illegal Chinese fishing (voanews.com)",
+        "points": "14 points by wslh 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "All Cars Sold in the US Will Soon Have to Be Able to Automatically Avoid a Crash (theautopian.com)",
+        "points": "35 points by levinb 9 hours ago",
+        "comments": 90
+      },
+      {
+        "title": "Muddling Meerkat Hackers Manipulate DNS Using China's Great Firewall (bleepingcomputer.com)",
+        "points": "5 points by gladwindos 19 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Saudis Scale Back Ambition for $1.5T Desert Project Neom (bloomberg.com)",
+        "points": "13 points by virgildotcodes 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Nebula LLM by Symbl.ai Beats Claude 3, GPT-4, Llama 3 on Emotional Intelligence (symbl.ai)",
+        "points": "7 points by ktalamad 12 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Ask HN: How can I (easily) learn electronics with my son?",
+        "points": "9 points by pachico 2 days ago",
+        "comments": 9
+      },
+      {
+        "title": "The new class war: A wealth gap between millennials (cnbc.com)",
+        "points": "6 points by fareshood 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "'We need to slow down scientific publishing' (elpais.com)",
+        "points": "8 points by belter 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "How Old Are These Keys? Five Eras of Human Progress (breckyunits.com)",
+        "points": "14 points by breck 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "How to Make a Video Game – Godot Beginner Tutorial (youtube.com)",
+        "points": "5 points by doppp 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "TikTok ban in EU is 'not excluded,' von der Leyen says (politico.eu)",
+        "points": "7 points by retskrad 16 hours ago",
+        "comments": 3
+      },
+      {
+        "title": "European Commission Designates Apple's iPadOS Under the Digital Markets Act (europa.eu)",
+        "points": "8 points by shortsunblack 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "6G speeds hit 100 Gbps in new test – 500 times faster than average 5G cellphones (livescience.com)",
+        "points": "9 points by kungfudoi 17 hours ago",
+        "comments": 10
+      },
+      {
+        "title": "Bill Gates never left - Insiders say he's still pulling the strings at Microsoft (businessinsider.com)",
+        "points": "37 points by rmason 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "Dean Ball on the new California AI bill (marginalrevolution.com)",
+        "points": "14 points by paulbaumgart 10 hours ago",
+        "comments": 10
+      },
+      {
+        "title": "Monopoly Round-up: did Texas join OPEC? (thebignewsletter.com)",
+        "points": "10 points by xrd 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "We're moving continuous integration back to developer machines (world.hey.com)",
+        "points": "20 points by lylejantzi3rd 1 day ago",
+        "comments": 9
+      },
+      {
+        "title": "Fixing C source code from the internet using cake static analyzer (youtube.com)",
+        "points": "11 points by thradams 2 days ago",
+        "comments": 2
+      },
+      {
+        "title": "FSF to be deposed in SFC vs. Vizio, updates relevant FAQ entry (fsf.org)",
+        "points": "56 points by todsacerdoti 1 day ago",
+        "comments": 12
+      },
+      {
+        "title": "Bruce Perens tries to achieve a third impossible thing (theregister.com)",
+        "points": "7 points by Dotnaught 16 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Highlights from Git 2.45 (github.blog)",
+        "points": "9 points by c_joly 23 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Coddled Kids Become Depressed, Anti-Social College Students (reason.com)",
+        "points": "41 points by fortran77 1 day ago",
+        "comments": 25
+      },
+      {
+        "title": "Pulumi AI is poisoning Google search results with AI answers (github.com/pulumi)",
+        "points": "90 points by mooreds 1 day ago",
+        "comments": 57
+      },
+      {
+        "title": "California Senate bill to crush OpenAI competitors fast tracked for a vote (twitter.com/psychosort)",
+        "points": "33 points by robertn702 1 day ago",
+        "comments": 15
+      },
+      {
+        "title": "Ask HN: Avast injected their signature into my email. How did they do it?",
+        "points": "6 points by pablogancharov 1 day ago",
+        "comments": 4
+      },
+      {
+        "title": "After decades of inaction, states are finally stepping up on housing (vox.com)",
+        "points": "10 points by toomuchtodo 16 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Dynamic Slots in Web Components (abeautifulsite.net)",
+        "points": "6 points by pickpuck 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "Amazon Q is now generally available (twitter.com/ajassy)",
+        "points": "8 points by bzooka 16 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Raspberry Pi 5 vs. Intel N100 mini PC comparison (cnx-software.com)",
+        "points": "71 points by rcarmo 18 hours ago",
+        "comments": 66
+      },
+      {
+        "title": "Foreigner's request for help in Tokyo makes us sad for the state of society (soranews24.com)",
+        "points": "7 points by mikhael 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "Second Life's Formula Will Never Be Replicated (theatlantic.com)",
+        "points": "19 points by Anon84 1 day ago",
+        "comments": 4
+      },
+      {
+        "title": "Drone maker DJI facing U.S. FCC ban (tomshardware.com)",
+        "points": "9 points by elorant 2 days ago",
+        "comments": 2
+      },
+      {
+        "title": "Mixtral 8x7B going 378 tokens per second on CPU (twitter.com/justinetunney)",
+        "points": "28 points by tosh 1 day ago",
+        "comments": 6
+      },
+      {
+        "title": "US, other G7 countries to phase out coal by early 2030s (electrek.co)",
+        "points": "52 points by Klaster_1 1 day ago",
+        "comments": 46
+      },
+      {
+        "title": "AxiDraw V3 – High Performance Personal Writing and Drawing Machine (evilmadscientist.com)",
+        "points": "11 points by edweis 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Tesla former VP of engineering liquidated virtually entire stake in the company (fortune.com)",
+        "points": "29 points by belter 1 day ago",
+        "comments": 19
+      },
+      {
+        "title": "In America's Biggest Oil Field, the Ground Is Swelling and Buckling (wsj.com)",
+        "points": "6 points by impish9208 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "How quickly can you break a long string into lines? (lemire.me)",
+        "points": "5 points by greghn 2 days ago",
+        "comments": 3
+      },
+      {
+        "title": "Git 2.45 Released with Initial SHA1/SHA256 Interoperability and Reftable Support (phoronix.com)",
+        "points": "6 points by LinuxBender 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "How an empty S3 bucket can make your AWS bill explode (medium.com/maciej.pocwierz)",
+        "points": "243 points by macok 1 day ago",
+        "comments": 90
+      },
+      {
+        "title": "No One Should Have That Much Power (mnot.net)",
+        "points": "62 points by todsacerdoti 1 day ago",
+        "comments": 41
+      },
+      {
+        "title": "Winner of $1.3B Powerball jackpot is a immigrant from Laos who has cancer (apnews.com)",
+        "points": "46 points by silahyd 1 day ago",
+        "comments": 45
+      },
+      {
+        "title": "Meta's 'set it and forget it' AI ad tools are misfiring and blowing through cash (theverge.com)",
+        "points": "8 points by rntn 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "Marriott admits lied about encrypting card, passport numbers in 2018 breach (csoonline.com)",
+        "points": "27 points by Terretta 19 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "'The science isn't there': do dating apps help us find our soulmate? (theguardian.com)",
+        "points": "7 points by prmph 2 days ago",
+        "comments": 2
+      },
+      {
+        "title": "It isn't only Python, Dart and Flutter teams also affected (twitter.com/jamonholmgren)",
+        "points": "32 points by pjmlp 1 day ago",
+        "comments": 3
+      },
+      {
+        "title": "Argentina's Monthly CPI to Fall Below 10% in April, Milei Says (bloomberg.com)",
+        "points": "4 points by ca98am79 16 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "The Millennial Captcha (mcsweeneys.net)",
+        "points": "19 points by 8organicbits 2 days ago",
+        "comments": 2
+      },
+      {
+        "title": "PHP Is Web Shell (hiandrewquinn.github.io)",
+        "points": "26 points by hiAndrewQuinn 1 day ago",
+        "comments": 35
+      },
+      {
+        "title": "GPS-jammer affecting aircraft near Estonia is located in Russia (twitter.com/auonsson)",
+        "points": "5 points by cmurf 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Catholic Group Quickly Defrocks AI Priest Father Justin (futurism.com)",
+        "points": "27 points by madpen 2 days ago",
+        "comments": 11
+      },
+      {
+        "title": "How the right U.S. chip strategy can keep Taiwan free (washingtonpost.com)",
+        "points": "9 points by philk10 1 day ago",
+        "comments": 9
+      },
+      {
+        "title": "Collection of publicly available IPTV channels (iptv-org.github.io)",
+        "points": "97 points by keepamovin 1 day ago",
+        "comments": 25
+      },
+      {
+        "title": "Apollo Accused in Lawsuit of Illegal Human Life Wagering Scheme (bloomberg.com)",
+        "points": "9 points by rokkitmensch 10 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "Tiered storage won't fix Kafka (warpstream.com)",
+        "points": "64 points by itunpredictable 1 day ago",
+        "comments": 29
+      },
+      {
+        "title": "\"So that a truncated partial download doesn't end up executing half a script\" (tailscale.com)",
+        "points": "78 points by obi1kenobi 1 day ago",
+        "comments": 81
+      },
+      {
+        "title": "Ask HN: What fields or technologies are you excited about?",
+        "points": "28 points by aelmeleegy 1 day ago",
+        "comments": 67
+      },
+      {
+        "title": "Musk lays off Tesla senior executives in fresh job cuts, The Information reports (reuters.com)",
+        "points": "5 points by neogodless 13 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Spotify CEO surprised that laying off 1.5k negatively affected operations (archive.md)",
+        "points": "7 points by peonyzul 1 day ago",
+        "comments": 6
+      },
+      {
+        "title": "There's no need to shower every day – here's why (bbc.com)",
+        "points": "19 points by whereistimbo 13 hours ago",
+        "comments": 36
+      },
+      {
+        "title": "Pete Ballmer: what its like to grow up as Steve Ballmers son (dailymail.co.uk)",
+        "points": "24 points by andrewstuart 2 days ago",
+        "comments": 10
+      },
+      {
+        "title": "Traefik Proxy v3.0.0 Released (github.com/traefik)",
+        "points": "15 points by mkroman 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "China's VIDU Video Generation AI Competes with OpenAI's Sora (medium.com/shahabh)",
+        "points": "11 points by ulrischa 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "OpenAI memory available for ChatGPT Plus users (twitter.com/openai)",
+        "points": "13 points by kodisha 1 day ago",
+        "comments": 3
+      },
+      {
+        "title": "Only9Fans (only9fans.com)",
+        "points": "122 points by metadat 1 day ago",
+        "comments": 85
+      },
+      {
+        "title": "Google sued by US artists over AI image generator (reuters.com)",
+        "points": "3 points by thunderbong 9 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Ruwiki (Wikipedia Fork) (wikipedia.org)",
+        "points": "5 points by defrost 22 hours ago",
+        "comments": 1
+      },
+      {
+        "title": "Ukraine Appears to Be Using Light Planes Converted into Reusable Bomber Drones (twz.com)",
+        "points": "7 points by peutetre 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "Mysterious gtp2 model makes its way to chatbot arena (twitter.com/kosenjuu)",
+        "points": "11 points by somebee 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Tesla Lays Off Employee Who Slept in Car to Work Longer Hours (yahoo.com)",
+        "points": "34 points by doener 22 hours ago",
+        "comments": 27
+      },
+      {
+        "title": "ChatGPT provides false information about people, and OpenAI can't correct it (noyb.eu)",
+        "points": "62 points by skilled 1 day ago",
+        "comments": 87
+      },
+      {
+        "title": "Mercury News and other papers sue Microsoft, OpenAI (mercurynews.com)",
+        "points": "6 points by skilled 14 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Another US precision-guided weapon falls prey to Russian electronic warfare (defenseone.com)",
+        "points": "4 points by belter 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "The wealthy are building \"passport portfolios\" (unusualwhales.com)",
+        "points": "9 points by mariojv 2 days ago",
+        "comments": 3
+      },
+      {
+        "title": "Google layoffs: Company fires entire Python team for 'cheaper labour' (hindustantimes.com)",
+        "points": "40 points by thunderbong 1 day ago",
+        "comments": 34
+      },
+      {
+        "title": "The cloud is over-engineered and overpriced (youtube.com)",
+        "points": "27 points by psnehanshu 18 hours ago",
+        "comments": 13
+      },
+      {
+        "title": "Adblock Plus 4.0 released, uses Manifest V3 on Chrome (adblockplus.org)",
+        "points": "6 points by tech234a 12 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "Phreaking (wikipedia.org)",
+        "points": "39 points by kaycebasques 1 day ago",
+        "comments": 29
+      },
+      {
+        "title": "Tesla Clears Key China Assisted-Driving Hurdle with Baidu Deal (bloomberg.com)",
+        "points": "6 points by mfiguiere 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "'To the Future': Saudi Arabia Spends Big to Become an A.I. Superpower (nytimes.com)",
+        "points": "7 points by mooreds 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "Homegrown Chinese CPUs are catching up to AMD and Intel (tomshardware.com)",
+        "points": "7 points by belter 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "Do Not Try to Upgrade to Ubuntu 24.04 LTS at This Time (linuxiac.com)",
+        "points": "5 points by neitsab 2 days ago",
+        "comments": 4
+      },
+      {
+        "title": "Ford's BlueCruise hands-free system under investigation after fatal crashes (techcrunch.com)",
+        "points": "7 points by ra7 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Xbox Console Sales Are Tanking as Microsoft Brings Games to PS5 (kotaku.com)",
+        "points": "17 points by elorant 1 day ago",
+        "comments": 21
+      },
+      {
+        "title": "Why China Keeps Making More Cars Than It Needs (wsj.com)",
+        "points": "3 points by JumpCrisscross 2 days ago",
+        "comments": 2
+      },
+      {
+        "title": "Python and Flutter teams latest on the Google chopping block (theregister.com)",
+        "points": "15 points by mikece 1 day ago",
+        "comments": 6
+      },
+      {
+        "title": "GCC 14.1 Compiler Aiming for Release Around 7 May with C23 and AVX10.1 (phoronix.com)",
+        "points": "4 points by ashvardanian 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "Forget moonshots, investors want profit now (wsj.com)",
+        "points": "26 points by petethomas 2 days ago",
+        "comments": 50
+      },
+      {
+        "title": "Elon Musk's 'Twitter sitter' appeal over Tesla posts rejected by Supreme Court (cnn.com)",
+        "points": "8 points by peutetre 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "US is reviewing risks of China's use of RISC-V chip technology (reuters.com)",
+        "points": "3 points by photochemsyn 2 days ago",
+        "comments": 1
+      },
+      {
+        "title": "Binance's billionaire founder to find out if prison time is coming (cnbc.com)",
+        "points": "5 points by belter 18 hours ago",
+        "comments": 0
+      },
+      {
+        "title": "Japanese yen weakens to 160 against the USD for the first time since 1990 (cnbc.com)",
+        "points": "38 points by ammo1662 2 days ago",
+        "comments": 80
+      },
+      {
+        "title": "AI Leapfrogging: How AI Will Transform “Lagging” Industries (2023) (nfx.com)",
+        "points": "30 points by hacb 1 day ago",
+        "comments": 57
+      },
+      {
+        "title": "Bloomberg: \"Strong possibility\" of M4 debuting on May 7 with new iPad Pro (macrumors.com)",
+        "points": "32 points by aurareturn 2 days ago",
+        "comments": 73
+      },
+      {
+        "title": "Elon Musk goes 'absolutely hard core' in another round of Tesla layoffs (theverge.com)",
+        "points": "19 points by AlexandrB 17 hours ago",
+        "comments": 5
+      },
+      {
+        "title": "Russian central bank warns of slower drop in inflation as it holds rates at 16% (reuters.com)",
+        "points": "3 points by mervant 2 days ago",
+        "comments": 0
+      },
+      {
+        "title": "Elon Musk loses at Supreme Court in case over \"funding secured\" tweets (arstechnica.com)",
+        "points": "8 points by rbanffy 1 day ago",
+        "comments": 0
+      },
+      {
+        "title": "Sleeping Tesla driver caught on Swedish highway – after 25 miles (vibilagare.se)",
+        "points": "41 points by eriksdh 1 day ago",
+        "comments": 75
+      },
+      {
+        "title": "In the AI Economy, There Will Be Zero Percent Unemployment (reason.com)",
+        "points": "17 points by jazzdev 1 day ago",
+        "comments": 60
+      },
+      {
+        "title": "Exercise, metabolism, and weight: New research from The Biggest Loser (2022) (health.harvard.edu)",
+        "points": "38 points by paulpauper 2 days ago",
+        "comments": 52
+      },
+      {
+        "title": "Most investments are bad. Here's why (lynalden.com)",
+        "points": "41 points by namanyayg 1 day ago",
+        "comments": 70
+      },
+      {
+        "title": "Elon Musk praises Chinese workers for 'burning the 3am oil (May 2022) (theguardian.com)",
+        "points": "5 points by ZuckMusk 2 days ago",
+        "comments": 7
+      },
+      {
+        "title": "Vastaamo hack: Therapy notes hacker jailed for blackmail (bbc.com)",
+        "points": "51 points by coloneltcb 14 hours ago",
+        "comments": 4
+      },
+      {
+        "title": "\"Run0\" as a Sudo Replacement (lwn.net)",
+        "points": "13 points by bertman 15 hours ago",
+        "comments": 2
+      },
+      {
+        "title": "Ask HN: Is ActivityPub better than RSS?",
+        "points": "4 points by uncertainquark 2 days ago",
+        "comments": 3
+      },
+      {
+        "title": "Systemd Wants to Expand to Include a Sudo Replacement (fosspost.org)",
+        "points": "79 points by jamapy 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Farewell MFJ (hackaday.com)",
+        "points": "19 points by h2odragon 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "Copilot Workspace is GitHub's take on AI-powered software engineering (techcrunch.com)",
+        "points": "34 points by ollieglass 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "Fentanyl Laid Waste to Guatemala's Time-Worn Opium Trade (nytimes.com)",
+        "points": "16 points by whack 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "GitHub previews Copilot Workspace: AI IDE to turn ideas into software (venturebeat.com)",
+        "points": "22 points by CharlesW 1 day ago",
+        "comments": 2
+      },
+      {
+        "title": "Copilot Workspace (githubnext.com)",
+        "points": "35 points by davidbarker 1 day ago",
+        "comments": 1
+      },
+      {
+        "title": "[dupe] FCC fines big three carriers $196M for selling users' real-time location data (arstechnica.com)",
+        "points": "186 points by spenvo 1 day ago",
+        "comments": 3
+      }
+    ]
+  },
+  {
+    "100-200 comments": [
+      {
+        "title": "Pyinfra: Automate Infrastructure Using Python (pyinfra.com)",
+        "points": "454 points by InitEnabler 15 hours ago",
+        "comments": 169
+      },
+      {
+        "title": "How ECMO is redefining death (newyorker.com)",
+        "points": "127 points by _xerces_ 11 hours ago",
+        "comments": 115
+      },
+      {
+        "title": "The IMEI Code: Your phone’s other number (tedium.co)",
+        "points": "192 points by shortformblog 15 hours ago",
+        "comments": 102
+      },
+      {
+        "title": "Why SQLite Uses Bytecode (sqlite.org)",
+        "points": "717 points by todsacerdoti 1 day ago",
+        "comments": 188
+      },
+      {
+        "title": "Google workers fired for protesting Israeli contract file NLRB complaint (theverge.com)",
+        "points": "95 points by lladnar 7 hours ago",
+        "comments": 109
+      },
+      {
+        "title": "93% of paint splatters are valid Perl programs (2019) (mcmillen.dev)",
+        "points": "474 points by ellieh 1 day ago",
+        "comments": 119
+      },
+      {
+        "title": "Cheyenne Super Computer Auction (gsaauctions.gov)",
+        "points": "242 points by zrules 1 day ago",
+        "comments": 149
+      },
+      {
+        "title": "Show HN: I made a privacy friendly and simple app to track my menstruation (play.google.com)",
+        "points": "698 points by stormqueen 1 day ago",
+        "comments": 188
+      },
+      {
+        "title": "I made a new backplane for my consumer NAS (codedbearder.com)",
+        "points": "401 points by granra 1 day ago",
+        "comments": 123
+      },
+      {
+        "title": "TypeSpec: A new language for API-centric development (typespec.io)",
+        "points": "265 points by ubolonton_ 1 day ago",
+        "comments": 109
+      },
+      {
+        "title": "A small lathe built in a Japanese prison camp (1949) (lathes.co.uk)",
+        "points": "526 points by CommieBobDole 2 days ago",
+        "comments": 144
+      },
+      {
+        "title": "Answering Legal Questions with LLMs (hugodutka.com)",
+        "points": "169 points by hugodutka 1 day ago",
+        "comments": 133
+      },
+      {
+        "title": "The unstallable plane that stalled (fearoflanding.com)",
+        "points": "176 points by sni 2 days ago",
+        "comments": 177
+      },
+      {
+        "title": "How do you accidentally run for President of Iceland? (uxdesign.cc)",
+        "points": "265 points by simonw 1 day ago",
+        "comments": 123
+      },
+      {
+        "title": "FireChat was a tool for revolution, then disappeared (fromjason.xyz)",
+        "points": "258 points by evah 1 day ago",
+        "comments": 122
+      },
+      {
+        "title": "Liu Cixin's War of the Worlds (2019) (newyorker.com)",
+        "points": "70 points by bookofjoe 1 day ago",
+        "comments": 107
+      },
+      {
+        "title": "Asynchronous Programming in C# (github.com/davidfowl)",
+        "points": "100 points by dtquad 21 hours ago",
+        "comments": 128
+      },
+      {
+        "title": "Call-to-Action on SB 1047 – Frontier Artificial Intelligence Models Act (affuture.org)",
+        "points": "144 points by jph00 2 days ago",
+        "comments": 101
+      },
+      {
+        "title": "Airline keeps mistaking 101-year-old woman for 1-year-old baby (bbc.com)",
+        "points": "117 points by fortran77 2 days ago",
+        "comments": 103
+      },
+      {
+        "title": "Hitting every branch on the way down (rachelbythebay.com)",
+        "points": "157 points by zdw 1 day ago",
+        "comments": 135
+      },
+      {
+        "title": "Don't Just Say \"Hello\" in Chat (nohello.com)",
+        "points": "78 points by sp8 20 hours ago",
+        "comments": 123
+      },
+      {
+        "title": "Sunlight and Vitamin D (2013) (nih.gov)",
+        "points": "97 points by luu 1 day ago",
+        "comments": 132
+      },
+      {
+        "title": "NASA lays out how SpaceX will refuel Starships in low-Earth orbit (arstechnica.com)",
+        "points": "58 points by rbanffy 20 hours ago",
+        "comments": 121
+      },
+      {
+        "title": "Why We Hate Working for Big Companies (2018) (lukekanies.com)",
+        "points": "91 points by Vinnl 1 day ago",
+        "comments": 152
+      },
+      {
+        "title": "SB-1047 will stifle open-source AI and decrease safety (answer.ai)",
+        "points": "220 points by kmdupree 1 day ago",
+        "comments": 189
+      },
+      {
+        "title": "The reckless policies that helped fill our streets with large cars (vox.com)",
+        "points": "139 points by NaOH 2 days ago",
+        "comments": 115
+      },
+      {
+        "title": "Are Ultra-Processed Foods All That Unhealthy? (openmindmag.org)",
+        "points": "41 points by Hary06 1 day ago",
+        "comments": 104
+      },
+      {
+        "title": "Ozempic will disrupt big tobacco, candy companies, and alcohol brands (curingaddiction.substack.com)",
+        "points": "144 points by robertn702 2 days ago",
+        "comments": 195
+      },
+      {
+        "title": "ByteDance’s web of apps could get tangled up in TikTok ban (axios.com)",
+        "points": "57 points by namanyayg 1 day ago",
+        "comments": 101
+      },
+      {
+        "title": "Doctor at Cigna said bosses pressured her to review patients' cases too quickly (propublica.org)",
+        "points": "165 points by ceejayoz 1 day ago",
+        "comments": 147
+      },
+      {
+        "title": "iPadOS Identified as Digital 'Gatekeeper' Under New EU Tech Rules (macrumors.com)",
+        "points": "93 points by tosh 1 day ago",
+        "comments": 129
+      },
+      {
+        "title": "U.S. to require automatic emergency braking on new vehicles in 5 years (npr.org)",
+        "points": "36 points by geox 23 hours ago",
+        "comments": 146
+      }
+    ]
+  },
+  {
+    "200-300 comments": [
+      {
+        "title": "Borgo is a statically typed language that compiles to Go (github.com/borgo-lang)",
+        "points": "424 points by manx 15 hours ago",
+        "comments": 277
+      },
+      {
+        "title": "Webb captures iconic Horsehead Nebula in unprecedented detail (esa.int)",
+        "points": "1029 points by rbanffy 1 day ago",
+        "comments": 286
+      },
+      {
+        "title": "Dear Europe, please wake up (klinger.io)",
+        "points": "219 points by sideway 13 hours ago",
+        "comments": 269
+      },
+      {
+        "title": "Wegovy could be covered for at least 3.6M people under new Medicare rules (kff.org)",
+        "points": "91 points by cwwc 2 days ago",
+        "comments": 202
+      },
+      {
+        "title": "Reddit is full of bots: thread reposted comment by comment, 10 months later (blahaj.zone)",
+        "points": "313 points by SushiHippie 16 hours ago",
+        "comments": 257
+      },
+      {
+        "title": "Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart (reuters.com)",
+        "points": "166 points by alephnerd 16 hours ago",
+        "comments": 222
+      },
+      {
+        "title": "30% of Children Ages 5-7 Are on TikTok (honest-broker.com)",
+        "points": "148 points by paulpauper 1 day ago",
+        "comments": 214
+      },
+      {
+        "title": "A leadership crisis in the Nix community (lwn.net)",
+        "points": "113 points by elikoga 1 day ago",
+        "comments": 264
+      }
+    ]
+  },
+  {
+    "300-400 comments": [
+      {
+        "title": "GPT-4.5 or GPT-5 being tested on LMSYS? (rentry.co)",
+        "points": "522 points by atemerev 1 day ago",
+        "comments": 334
+      },
+      {
+        "title": "What's Going on with ‘Nonplussed’? (2017) (merriam-webster.com)",
+        "points": "218 points by rglullis 1 day ago",
+        "comments": 321
+      },
+      {
+        "title": "GitHub Copilot Workspace: Technical Preview (github.blog)",
+        "points": "290 points by davidbarker 1 day ago",
+        "comments": 312
+      },
+      {
+        "title": "The Internet Archive's last-ditch effort to save itself (lunduke.locals.com)",
+        "points": "458 points by rbanffy 1 day ago",
+        "comments": 378
+      },
+      {
+        "title": "Apple must open iPadOS to sideloading within 6 months, EU says (arstechnica.com)",
+        "points": "368 points by rezonant 1 day ago",
+        "comments": 335
+      }
+    ]
+  },
+  {
+    "400-500 comments": [
+      {
+        "title": "The Myth of the Second Chance (pressreader.com)",
+        "points": "340 points by bookofjoe 2 days ago",
+        "comments": 418
+      },
+      {
+        "title": "Husband and wife outed as GRU spies aiding bombings and poisonings across Europe (theins.ru)",
+        "points": "682 points by dralley 1 day ago",
+        "comments": 437
+      },
+      {
+        "title": "You can't just assume UTF-8 (csvbase.com)",
+        "points": "192 points by calpaterson 1 day ago",
+        "comments": 457
+      },
+      {
+        "title": "Did we lose our way in making efficient software? (rufatmammadli.medium.com)",
+        "points": "256 points by rumad 2 days ago",
+        "comments": 479
+      }
+    ]
+  },
+  {
+    "500-600 comments": [
+      {
+        "title": "Run0, a systemd based alternative to sudo, announced (mastodon.social)",
+        "points": "303 points by CoolCold 14 hours ago",
+        "comments": 554
+      },
+      {
+        "title": "US drug control agency will move to reclassify marijuana (apnews.com)",
+        "points": "553 points by JacobHenner 12 hours ago",
+        "comments": 591
+      }
+    ]
+  }
+]
